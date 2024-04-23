@@ -23,7 +23,7 @@ source activate autogptq
 
 ## Install the packages to your environment
 
-Sometimes you need to install the packages from the conda-forge channel
+Sometimes you need to install the packages from the conda-forge channel.
 
 By using `conda`
 ```
